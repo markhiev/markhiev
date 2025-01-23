@@ -1,4 +1,4 @@
-# Hi, I'm Alex! 👨‍💻
+# Hi, I'm Ramazan! 👨‍💻
 
 ### Full-Stack Developer | Open-Source Enthusiast
 
@@ -13,13 +13,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 GitHub Stats
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex123&show_icons=true&theme=dark)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markhiev&show_icons=true&theme=dark)
 
 ### 🚀 Featured Projects
 - [Project 1](#): A React-based task manager.
 - [Project 2](#): A Python script for data analysis.
 - [Project 3](#): An open-source contribution tracker.
 
-### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alex)
